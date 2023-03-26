@@ -1,2 +1,2 @@
 # Titan
- Learn for Houdini Titan Project 
+ Learn about the Houdini Titan Project 
